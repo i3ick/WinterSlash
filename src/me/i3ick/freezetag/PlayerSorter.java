@@ -1,3 +1,4 @@
+// THIS IS NOT A PLAYER SORTER. IT IS A PLAYER FREEZER EVENT!
 package me.i3ick.freezetag;
 
 
